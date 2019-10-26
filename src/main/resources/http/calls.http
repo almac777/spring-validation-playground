@@ -2,7 +2,7 @@ GET http://localhost:8080/api/hello-world/alex
 
 ###
 
-GET http://localhost:8080/api/hello-world/
+GET http://localhost:8080/api/hello-world/a
 
 
 ###

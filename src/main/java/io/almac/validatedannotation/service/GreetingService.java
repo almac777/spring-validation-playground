@@ -1,5 +1,6 @@
 package io.almac.validatedannotation.service;
 
+import org.springframework.stereotype.Service;
 import org.springframework.validation.annotation.Validated;
 
 import javax.validation.constraints.NotBlank;
